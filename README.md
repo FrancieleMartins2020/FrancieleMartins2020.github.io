@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🚀 Apresentação Pessoal & Profissional - Franciele Martins
 
