@@ -51,7 +51,7 @@ Este site foi desenvolvido com HTML5, CSS (Bootstrap 4) e FontAwesome para criar
 1. Faça o clone ou download deste repositório:
    ```bash
    git clone https://github.com/FrancieleMartins2020/FrancieleMartins2020.github.io
-````
+
 
 2. Abra o arquivo `index.html` no navegador:
 
