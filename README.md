@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Apresentação Pessoal & Profissional - Franciele Martins
 
 > Site responsivo para apresentar informações pessoais, profissionais e acadêmicas da Franciele Martins.
